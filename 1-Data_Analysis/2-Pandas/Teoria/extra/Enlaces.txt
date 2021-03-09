@@ -1,0 +1,5 @@
+https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch05.html
+
+https://towardsdatascience.com/a-practical-guide-for-data-analysis-with-pandas-e24e467195a9
+
+https://learning.oreilly.com/library/view/pandas-cookbook/9781784393878/648d016a-9d06-43dc-bd29-790093caeabc.xhtml

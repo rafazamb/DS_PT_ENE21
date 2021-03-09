@@ -1,3 +1,0 @@
-https://learning.oreilly.com/library/view/python-for-data/9781491957653/ch05.html
-
-https://towardsdatascience.com/a-practical-guide-for-data-analysis-with-pandas-e24e467195a9
